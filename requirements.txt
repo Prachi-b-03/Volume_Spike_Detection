@@ -1,0 +1,4 @@
+yFinance
+Pandas
+Matplotlib.pyplot
+Spicy.Stats
